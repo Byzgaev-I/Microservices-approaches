@@ -123,7 +123,7 @@
 
 ### Ответ:
 
-Я бы предлжил использование в связки Prometheus и Grafana, для мониторинга микросервисной архитектуры.
+Я бы предлжил использование в связки Prometheus и Grafana для мониторинга микросервисной архитектуры.
 Решение: Prometheus + Grafana + Node Exporter + kube-state-metrics (для Kubernetes)
 
 Обоснование:
